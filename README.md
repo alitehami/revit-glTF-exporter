@@ -30,6 +30,9 @@ If you're interested in contributing to glTF exporter, just submit a [pull reque
 ## Installation
 Looking to get the revit-glTF-exporter add-in?  Check out [Autodesk app store](https://apps.autodesk.com/RVT/en/Detail/Index?id=6272106374266176068&appLang=en&os=Win64).
 
+## License
+Check the [License](https://github.com/EverseDevelopment/revit-glTF-exporter/blob/master/LICENSE) of this repo 
+
 ## About us ##
 
 We are an international mix of AEC professionals, product designers, and software developers. We work together to transform construction requirements into accurate and partnership-driven technological solutions.
